@@ -13,13 +13,13 @@ Telegram давно превратился в основную площадку,
 
 ## Список актуальных ботов для поиска данных
 На текущий момент активно применяются несколько Telegram-ботов, востребованных при проведении OSINT-проверок, анализе цифрового следа и работе с открытыми источниками. Эти инструменты позволяют находить данные по телефону, никнеймам в Telegram, почтовым адресам, профилям в соцсетях и другим идентификаторам.
-* ➡️[Телеграм бот Шерлок](https://github.com/osint-and-search/telegram_bot_Sherlock) - подробный бот с большим количеством методов и источников для анализа. **[Прямая ссылка на бота](https://t.me/Serlokbottestbot?start=_ref_9pyalm_JJwlz5)**
-* ➡️[Телеграм бот Вектор](https://github.com/osint-and-search/telegram_bot_Vektor) - надёжный инструмент для сбора информации и проведения разведки. **[Прямая ссылка на бота](https://t.me/VvVektornotbot?start=r_eFGr1BT2b5)**
-* ➡️[Телеграм бот Энигма](https://github.com/osint-and-search/telegram_bot_Enigma) - Telegram-бот, который постепенно расширяет возможности по поиску данных. **[Прямая ссылка на бота](https://t.me/ningmaaX_Ox5EM2_bot?start=C96FP5YS)**
-* ➡️[Телеграм бот Химера](https://github.com/osint-and-search/telegram_bot_Himera) - единственный полностью легальный инструмент для OSINT-исследований. **[Прямая ссылка на бота](https://t.me/himerrra_bot?start=406840159)**
-* ➡️[Телеграм бот Телелог](https://github.com/osint-and-search/telegram_bot_Telelog) - мощный сканер и инструмент разведки непосредственно внутри Telegram. **[Прямая ссылка на бота](https://t.me/TLLG_search_bot?start=01083996516B74617466)**
-* ➡️[Телеграм бот Фанстат](https://github.com/osint-and-search/telegram_bot_FunStat) - прежнее название бота Телелог, указанного выше. **[Прямая ссылка на бота](https://t.me/TLLG_search_bot?start=01083996516B74617466)**
-* ➡️[Телеграм бот Юзерсбокс](https://github.com/osint-and-search/telegram_bot_UsersBox) - закрытый бот, прекративший работу после эпохи Глаза Бога.
+* ➡️[Телеграм бот Шерлок](https://github.com/osint-and-search/telegram_bot_Sherlock) (**[Прямая ссылка на бота](https://t.me/Serlokbottestbot?start=_ref_9pyalm_JJwlz5)**) - подробный бот с большим количеством методов и источников для анализа.
+* ➡️[Телеграм бот Вектор](https://github.com/osint-and-search/telegram_bot_Vektor) (**[Прямая ссылка на бота](https://t.me/VvVektornotbot?start=r_eFGr1BT2b5)**) - надёжный инструмент для сбора информации и проведения разведки.
+* ➡️[Телеграм бот Энигма](https://github.com/osint-and-search/telegram_bot_Enigma) (**[Прямая ссылка на бота](https://t.me/ningmaaX_Ox5EM2_bot?start=C96FP5YS)**) - Telegram-бот, который постепенно расширяет возможности по поиску данных.
+* ➡️[Телеграм бот Химера](https://github.com/osint-and-search/telegram_bot_Himera) (**[Прямая ссылка на бота](https://t.me/himerrra_bot?start=406840159)**) - единственный полностью легальный инструмент для OSINT-исследований.
+* ➡️[Телеграм бот Телелог](https://github.com/osint-and-search/telegram_bot_Telelog) (**[Прямая ссылка на бота](https://t.me/TLLG_search_bot?start=01083996516B74617466)**) - мощный сканер и инструмент разведки непосредственно внутри Telegram.
+* ➡️[Телеграм бот Фанстат](https://github.com/osint-and-search/telegram_bot_FunStat) (**[Прямая ссылка на бота](https://t.me/TLLG_search_bot?start=01083996516B74617466)**) - прежнее название бота Телелог, указанного выше.
+* ➡️[Телеграм бот Юзерсбокс](https://github.com/osint-and-search/telegram_bot_UsersBox) () - закрытый бот, прекративший работу после эпохи Глаза Бога.
 
 Подбор подходящего Telegram-бота зависит от поставленной задачи, региона и формата требуемых сведений. Универсального инструмента не существует, поэтому разумнее комбинировать несколько сервисов и сопоставлять полученные результаты. Такой подход заметно увеличивает точность итогового поиска.
 
